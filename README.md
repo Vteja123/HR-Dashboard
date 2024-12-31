@@ -17,6 +17,6 @@ This Tableau dashboard provides key insights into HR metrics, including workforc
 2. Interact with the dashboard to explore various metrics.
 
 ## Author
-[Baraa Khatib Salkini].(https://www.linkedin.com/in/baraa-khatib-salkini)
+[Baraa Khatib Salkini]((https://www.linkedin.com/in/baraa-khatib-salkini/)
 [Venkata Teja Mereti](https://linkedin.com/in/your-profile)
 
